@@ -1,4 +1,5 @@
 100 Days Of Code - Log
+
 Day 1: july 24, 2025
 Today's Progress: Done 2 Leetcode Problem
 
