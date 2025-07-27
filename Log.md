@@ -17,3 +17,9 @@ Day 3: July 26,2025
 Today's Progress: Done a Simple To-Do List Project Using Python
 
 Thoughts: Just A simple Project to revise the basics
+
+Day 4: July 27,2025
+
+Today's Progress: Done 2 LeetCode Problems
+
+Thoughts : Learned more About Stacks and  'Pandas' function 
