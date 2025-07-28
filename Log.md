@@ -23,3 +23,9 @@ Day 4: July 27,2025
 Today's Progress: Done 2 LeetCode Problems
 
 Thoughts : Learned more About Stacks and  'Pandas' function 
+
+Day 5: July 28,2025
+
+Today's Progress: Done a Simple Number Guessing Game Using Python.
+
+Thoughts : Used Random And Try & Except Method to learn About few things.
