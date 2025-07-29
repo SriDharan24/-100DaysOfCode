@@ -29,3 +29,9 @@ Day 5: July 28,2025
 Today's Progress: Done a Simple Number Guessing Game Using Python.
 
 Thoughts : Used Random And Try & Except Method to learn About few things.
+
+Day 6: July 29,2025
+
+Today's Progress: Done a Simple Age Calculator Using Python.
+
+Thoughts: This app will calculate your age based on your date of birth. It teaches you how to use datetime, take input, and format output.
