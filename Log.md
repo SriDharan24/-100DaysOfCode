@@ -35,3 +35,9 @@ Day 6: July 29,2025
 Today's Progress: Done a Simple Age Calculator Using Python.
 
 Thoughts: This app will calculate your age based on your date of birth. It teaches you how to use datetime, take input, and format output.
+
+Day 7: July 30,2025
+
+Today's Progress: simple program for basics
+
+Thoughts: There is a large pile of socks that must be paired by color for sale. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
