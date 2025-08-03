@@ -41,3 +41,9 @@ Day 7: July 30,2025
 Today's Progress: simple program for basics
 
 Thoughts: There is a large pile of socks that must be paired by color for sale. Given an array of integers representing the color of each sock, determine how many pairs of socks with matching colors there are.
+
+Day 8: July 31,2025
+
+Today's Progress: Done a Simple password generator Using Python.
+
+Thoughts : This randomly generates strong passwords. It's a great way to learn about strings, loops, and the random module in Python.
