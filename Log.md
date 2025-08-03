@@ -47,3 +47,10 @@ Day 8: July 31,2025
 Today's Progress: Done a Simple password generator Using Python.
 
 Thoughts : This randomly generates strong passwords. It's a great way to learn about strings, loops, and the random module in Python.
+
+Day 9: August 1,2025
+
+Today's Progress: Done a Email Slicer Program using Random And String Function In python
+
+Thoughts: This takes an email address as input and extracts the username and domain. It's a great project for practicing string manipulation.
+
