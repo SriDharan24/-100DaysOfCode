@@ -54,3 +54,8 @@ Today's Progress: Done a Email Slicer Program using Random And String Function I
 
 Thoughts: This takes an email address as input and extracts the username and domain. It's a great project for practicing string manipulation.
 
+Day-10: August 2, 2025
+
+Today's Progress: Done a Hangman Program using  python
+
+Thoughts: Picks a random word (from a list or file),Shows “_” for unguessed letters,Tracks guessed letters and remaining lives,Ends when the word is guessed or lives run out
