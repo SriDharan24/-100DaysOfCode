@@ -65,3 +65,10 @@ Day-11: August 3, 2025
 Today's Progress: Done a Simple Calculator Program using  python.
 
 Thoughts: I don't have any time todau, So,I did a simple Program not to lose the streak.
+
+Day-12: August 4, 2025
+
+Today's Progress: Solved two Algorithm in DSA
+
+Thoughts: 1. Binary Search Algorithm - Efficiently search for an element in a sorted list.
+          2. Bubble Sort Algorithm - Sorts a list by repeatedly swapping adjacent elements if they are in the wrong order.
