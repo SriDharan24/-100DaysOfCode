@@ -1,0 +1,38 @@
+1. Binary Search Algorithm
+
+   def binary_search(arr, target):
+    low = 0
+    high = len(arr) - 1
+
+    while low <= high:
+        mid = (low + high) // 2
+        if arr[mid] == target:
+            return mid  # Found!
+        elif arr[mid] < target:
+            low = mid + 1
+        else:
+            high = mid - 1
+
+    return -1  # Not found
+
+
+nums = [2, 4, 6, 8, 10, 12, 14]
+print(binary_search(nums, 10))  
+
+#Output: 4
+
+2. Bubble Sort Algorithm
+
+   def bubble_sort(arr):
+    n = len(arr)
+    for i in range(n):
+        for j in range(n - 1 - i):
+            if arr[j] > arr[j + 1]:
+                # Swap
+                arr[j], arr[j + 1] = arr[j + 1], arr[j]
+    return arr
+
+nums = [64, 34, 25, 12, 22, 11, 90]
+print(bubble_sort(nums))  
+
+# Output: [11, 12, 22, 25, 34, 64, 90]
