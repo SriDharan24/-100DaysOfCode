@@ -59,3 +59,9 @@ Day-10: August 2, 2025
 Today's Progress: Done a Hangman Program using  python
 
 Thoughts: Picks a random word (from a list or file),Shows “_” for unguessed letters,Tracks guessed letters and remaining lives,Ends when the word is guessed or lives run out
+
+Day-11: August 3, 2025
+
+Today's Progress: Done a Simple Calculator Program using  python.
+
+Thoughts: I don't have any time todau, So,I did a simple Program not to lose the streak.
