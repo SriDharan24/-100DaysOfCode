@@ -10,7 +10,7 @@ Day 2: July 25,2025
 
 Today's Progress: Done a Simple Web Interface Using Flask framework
 
-Thoughts: To avoid getting the familiar concept,revisiting it through active recall and spaced repitition is key
+Thoughts: To avoid Forgetting the familiar concept,revisiting it through active recall and spaced repitition is key
 
 Day 3: July 26,2025
 
